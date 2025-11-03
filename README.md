@@ -1,1 +1,7 @@
-# Privacy-Preserving-Inference
+# Privacy-Preserving-Inference Collection
+本仓库用于收集与整理“隐私保护推理 / 隐私保护机器学习”相关的论文链接。目标是提供一个可快速浏览与可贡献的文献索引库（仅包含链接与简短信息，不保存受版权保护的完整 PDF）。
+
+快速说明
+- 仅收录论文链接（arXiv、DOI、会议/期刊页面或作者预印本链接）。
+- 按主题目录或年份组织（在下方有示例格式）。
+- 欢迎通过 Pull Request 添加或更新条目，提交时请遵循条目格式。
