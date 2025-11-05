@@ -7,7 +7,11 @@
 - 欢迎通过 Pull Request 添加或更新条目，提交时请遵循条目格式。
 
 ## Data Processing
-2025 — PrivacyRestore: Privacy-Preserving Inference in Large Language Models via Privacy Removal and Restoration — Ziqian Zeng et al. — [](https://aclanthology.org/2025.acl-long.532/) — tags: SANITIZE, RESTORE, LLM, DEFENSE — impl: https://github.com/ZeroNLP/PrivacyRestore
+2025 — PrivacyRestore: Privacy-Preserving Inference in Large Language Models via Privacy Removal and Restoration — Ziqian Zeng et al. — https://aclanthology.org/2025.acl-long.532/ — impl: https://github.com/ZeroNLP/PrivacyRestore
+
+## Model Finetunning
+2025 — Inducing Uncertainty on Open-Weight Models for Test-Time Privacy In Image Recognition — Ashiq et al. — https://www.arxiv.org/abs/2509.11625 — impl: https://github.com/ashiqwisc/test_time_privacy/
+
 
 ## 重要说明（版权）
 - 本仓库不存储受版权保护的完整 PDF；请优先使用 arXiv、DOI 或作者主页链接。若作者明确允许，可另行标注并附带链接到可公开下载的 PDF。
