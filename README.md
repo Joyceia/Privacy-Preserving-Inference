@@ -6,6 +6,9 @@
 - 按主题目录或年份组织。
 - 欢迎通过 Pull Request 添加或更新条目，提交时请遵循条目格式。
 
+## Data Processing
+2025 — PrivacyRestore: Privacy-Preserving Inference in Large Language Models via Privacy Removal and Restoration — Ziqian Zeng et al. — https://arxiv.org/abs/xxxx.xxxx — tags: SANITIZE, RESTORE, LLM, DEFENSE — impl: [](https://github.com/ZeroNLP/PrivacyRestore)
+
 ## 重要说明（版权）
 - 本仓库不存储受版权保护的完整 PDF；请优先使用 arXiv、DOI 或作者主页链接。若作者明确允许，可另行标注并附带链接到可公开下载的 PDF。
 
@@ -13,7 +16,7 @@
 - 本仓库建议采用 MIT License（或 CC-BY），论文条目请按原出处引用。  
 - 引用本仓库样式示例： Joyceia. Privacy-Preserving-Inference. GitHub repository. https://github.com/Joyceia/Privacy-Preserving-Inference
 
-#3 维护者与联系方式
+## 维护者与联系方式
 - 维护者：Joyceia
 - 联系方式：通过仓库 Issue 或在 PR 中 @Joyceia
 
