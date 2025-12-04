@@ -7,17 +7,17 @@
 - 欢迎通过 Pull Request 添加或更新条目，提交时请遵循条目格式。
 
 ## Data Processing
-2025 — PrivacyRestore: Privacy-Preserving Inference in Large Language Models via Privacy Removal and Restoration — Ziqian Zeng et al. — https://aclanthology.org/2025.acl-long.532/ — impl: https://github.com/ZeroNLP/PrivacyRestore
+2025 — PrivacyRestore: Privacy-Preserving Inference in Large Language Models via Privacy Removal and Restoration — Ziqian Zeng et al. — [Paper](https://aclanthology.org/2025.acl-long.532/) — [impl](https://github.com/ZeroNLP/PrivacyRestore)
 
 ## Model Finetunning
-2025 — Inducing Uncertainty on Open-Weight Models for Test-Time Privacy In Image Recognition — Ashiq et al. — https://www.arxiv.org/abs/2509.11625 — impl: https://github.com/ashiqwisc/test_time_privacy/
+2025 — Inducing Uncertainty on Open-Weight Models for Test-Time Privacy In Image Recognition — Ashiq et al. — [Paper](https://www.arxiv.org/abs/2509.11625) — [impl](https://github.com/ashiqwisc/test_time_privacy/)
 
 ## MPC
-2025 - [NDSS]SHAFT: Secure, Handy, Accurate, and FastTransformer Inference - Andes et al. - https://www.ndss-symposium.org/wp-content/uploads/2025-2287-paper.pdf - impl: https://github.com/andeskyl/SHAFT
+2025 - [NDSS]SHAFT: Secure, Handy, Accurate, and FastTransformer Inference - Andes et al. - [Paper](https://www.ndss-symposium.org/wp-content/uploads/2025-2287-paper.pdf) - [impl](https://github.com/andeskyl/SHAFT)
 
-2025 - [S&P]Comet: Accelerating Private Inference for Large Language Model by Predicting Activation Sparsity - Yan et al. - https://www.computer.org/csdl/proceedings-article/sp/2025/223600c604/26hiV1n2WeQ - impl:
+2025 - [S&P]Comet: Accelerating Private Inference for Large Language Model by Predicting Activation Sparsity - Yan et al. - [Paper](https://www.computer.org/csdl/proceedings-article/sp/2025/223600c604/26hiV1n2WeQ) 
 
-2025 - [CCS]Mosformer: Maliciously Secure Three-Party Inference Framework for Large Transformers - Zhang et al. - https://arxiv.org/pdf/2505.10315
+2025 - [CCS]Mosformer: Maliciously Secure Three-Party Inference Framework for Large Transformers - Zhang et al. - [Paper](https://arxiv.org/pdf/2505.10315)
 
 
 ## 重要说明（版权）
