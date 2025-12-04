@@ -14,7 +14,9 @@
 
 ## MPC
 2025 - [NDSS]SHAFT: Secure, Handy, Accurate, and FastTransformer Inference - Andes et al. - https://www.ndss-symposium.org/wp-content/uploads/2025-2287-paper.pdf - impl: https://github.com/andeskyl/SHAFT
+
 2025 - [S&P]Comet: Accelerating Private Inference for Large Language Model by Predicting Activation Sparsity - Yan et al. - https://www.computer.org/csdl/proceedings-article/sp/2025/223600c604/26hiV1n2WeQ - impl:
+
 2025 - [CCS]Mosformer: Maliciously Secure Three-Party Inference Framework for Large Transformers - Zhang et al. - https://arxiv.org/pdf/2505.10315
 
 
