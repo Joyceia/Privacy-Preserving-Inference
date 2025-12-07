@@ -17,7 +17,7 @@
 
 2025 - [S&P]Comet: Accelerating Private Inference for Large Language Model by Predicting Activation Sparsity - Yan et al. - [Paper](https://www.computer.org/csdl/proceedings-article/sp/2025/223600c604/26hiV1n2WeQ) 
 
-2025 - [CCS]Mosformer: Maliciously Secure Three-Party Inference Framework for Large Transformers - Zhang et al. - [Paper](https://arxiv.org/pdf/2505.10315)
+2025 - [CCS]Mosformer: Maliciously Secure Three-Party Inference Framework for Large Transformers - Zhang et al. - [Paper](https://arxiv.org/pdf/2505.10315) - [Impl](https://github.com/XidianNSS/Mosformer)
 
 
 ## 重要说明（版权）
